@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Stream Chunk Sender",
+  "version": "1.0",
+
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "http://localhost:8000/*",
+    "https://sunbonneted-doretha-introvertedly.ngrok-free.dev/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
