@@ -288,13 +288,7 @@ M.Sc. Computer Science, NIT Trichy (2024–2026)
 📧 yuvraj.singh.nitt@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-37a70b2a0)
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 Made with ❤️ at NIT Trichy
