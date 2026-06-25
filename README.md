@@ -29,6 +29,9 @@ No tab switching. No manual input. No interruption to your viewing experience.
 ## 🎬 Demo
 
 > 📽️ **[Watch the Demo Video](#)** ← *(https://drive.google.com/file/d/14Pfw4NezvTIxNBZqBUxUlwtvTXDCJQNj/view?usp=sharing)*
+> <p align="center">
+  <img src="assets/thumbnail.png" alt="FactLens Thumbnail" width="900"/>
+</p>
 
 ### What the overlay looks like:
 
