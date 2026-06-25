@@ -10,6 +10,10 @@
 
 **A real-time, evidence-grounded fact-checking Chrome extension that automatically detects and verifies factual claims in YouTube videos — as you watch them.**
 
+> <p align="center">
+  <img src="assets/thumbnail.png" alt="FactLens Thumbnail" width="900"/>
+</p>
+
 [Overview](#-overview) • [Demo](#-demo) • [Architecture](#-architecture) • [Setup](#-setup) • [Results](#-results) • [Limitations](#-limitations)
 
 </div>
@@ -29,9 +33,7 @@ No tab switching. No manual input. No interruption to your viewing experience.
 ## 🎬 Demo
 
 > 📽️ **[Watch the Demo Video](#)** ← *(https://drive.google.com/file/d/14Pfw4NezvTIxNBZqBUxUlwtvTXDCJQNj/view?usp=sharing)*
-> <p align="center">
-  <img src="assets/thumbnail.png" alt="FactLens Thumbnail" width="900"/>
-</p>
+
 
 ### What the overlay looks like:
 
